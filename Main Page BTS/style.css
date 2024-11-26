@@ -1,0 +1,339 @@
+.main-page,
+.main-page * {
+  box-sizing: border-box;
+}
+.main-page {
+  background: #28292b;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+.dashboard {
+  background: #28292b;
+  padding: 0px 1px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 88px;
+  position: relative;
+  overflow: hidden;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 88px;
+  position: relative;
+}
+.bts-logo-love-yourself-edit-hiroshi-mitsuki-12-2-1 {
+  flex-shrink: 0;
+  width: 133px;
+  height: 55px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-1 {
+  padding: 22px 0px 22px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 86px;
+  position: relative;
+  overflow: hidden;
+}
+.about {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 27px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.prices {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 27px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dev-profile {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 27px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 86px;
+  position: relative;
+}
+.component-1 {
+  flex-shrink: 0;
+  width: 149px;
+  height: 53px;
+  position: relative;
+}
+.prices-flag {
+  background: var(
+    --brand-color,
+    linear-gradient(
+      90deg,
+      rgba(178, 156, 238, 1) 0%,
+      rgba(233, 213, 249, 1) 100%
+    )
+  );
+  border-radius: 42px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.log-in {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  right: 25.17%;
+  left: 24.5%;
+  width: 50.34%;
+  bottom: 19.81%;
+  top: 6.6%;
+  height: 73.58%;
+}
+.section-hero {
+  padding: 0px 88px 125px 84px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 849px;
+  position: relative;
+  overflow: hidden;
+}
+.text {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: center;
+  flex-shrink: 0;
+  width: 1107px;
+  height: 558px;
+  position: relative;
+}
+.watch-the-most {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 99px;
+  line-height: 150px;
+  letter-spacing: -0.04em;
+  font-weight: 600;
+  position: relative;
+  width: 1107px;
+  height: 139px;
+}
+.whats-app-image-2024-11-24-at-20-59-06-78-dcf-9-da-removebg-preview-1 {
+  margin: -17px 0 0 0;
+  flex-shrink: 0;
+  width: 1103px;
+  height: 173px;
+  position: relative;
+  object-fit: cover;
+}
+.concert-you-ve-never-seen {
+  margin: -17px 0 0 0;
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 99px;
+  line-height: 98px;
+  letter-spacing: -0.04em;
+  font-weight: 600;
+  position: relative;
+  width: 1107px;
+  height: 200px;
+}
+.frame-2 {
+  padding: 0px 2px 0px 2px;
+  display: flex;
+  flex-direction: row;
+  gap: 25px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 129px;
+  position: relative;
+  overflow: hidden;
+}
+.image-removebg-preview-1 {
+  flex-shrink: 0;
+  width: 256px;
+  height: 70px;
+  position: relative;
+  object-fit: cover;
+}
+.image-removebg-preview-1-1 {
+  flex-shrink: 0;
+  width: 169px;
+  height: 70px;
+  position: relative;
+  object-fit: cover;
+}
+.big-hit-entertainment-logo-white-dog-removebg-preview-1-1 {
+  flex-shrink: 0;
+  width: 189px;
+  height: 129px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.about-sect {
+  background: #28292b;
+  padding: 0px 86px 0px 84px;
+  display: flex;
+  flex-direction: column;
+  gap: 29px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.whats-app-image-2024-11-24-at-20-59-54-70-f-0864-b-removebg-preview-1 {
+  flex-shrink: 0;
+  width: 207px;
+  height: 76px;
+  position: relative;
+  object-fit: cover;
+}
+.bts-bangtan-sonyeondan-is-a-south-korean-boy-band-formed-in-2013-consisting-of-7-members-rm-jin-suga-j-hope-jimin-v-and-jungkook-they-are-known-for-their-meaningful-music-energetic-performances-and-global-influence-bts-is-also-active-in-social-causes-and-philanthropy-with-a-dedicated-fanbase-called-army-x {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 27px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: relative;
+  align-self: stretch;
+  height: 255px;
+}
+.image-sect {
+  background: #28292b;
+  padding: 37px 88px 37px 87px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 1057px;
+  position: relative;
+  overflow: hidden;
+}
+.photo-frame {
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex-shrink: 0;
+  height: 999px;
+  position: relative;
+}
+.p-1 {
+  flex: 1;
+  width: 1104px;
+  position: relative;
+}
+.bts-twitter {
+  width: 549px;
+  height: 366px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  object-fit: cover;
+}
+.p-2 {
+  flex: 1;
+  width: 1104px;
+  position: relative;
+}
+.kontribusi-bts-terhadap-hubungan-amerika-serikat-dengan-korea-selatan-mendapat-apresiasi {
+  width: 649px;
+  height: 364px;
+  position: absolute;
+  left: 0px;
+  top: calc(50% - 182.17px);
+  object-fit: cover;
+}
+.p-3 {
+  flex: 1;
+  width: 1104px;
+  position: relative;
+}
+.ftxb-skamaa-x-8-tjpg-20220528050806 {
+  width: 709px;
+  height: 469px;
+  position: absolute;
+  right: 0px;
+  bottom: 0.33px;
+  object-fit: cover;
+}
