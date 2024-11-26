@@ -1,0 +1,323 @@
+.profile-sect,
+.profile-sect * {
+  box-sizing: border-box;
+}
+.profile-sect {
+  background: #28292b;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  height: 918px;
+  position: relative;
+  overflow: hidden;
+}
+.dashboard {
+  background: #28292b;
+  padding: 0px 1px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 88px;
+  position: relative;
+  overflow: hidden;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 88px;
+  position: relative;
+}
+.bts-logo-love-yourself-edit-hiroshi-mitsuki-12-2-1 {
+  flex-shrink: 0;
+  width: 133px;
+  height: 55px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-1 {
+  padding: 22px 0px 22px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 86px;
+  position: relative;
+  overflow: hidden;
+}
+.about {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 27px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.prices {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 27px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dev-profile {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 27px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 86px;
+  position: relative;
+}
+.component-1 {
+  flex-shrink: 0;
+  width: 149px;
+  height: 53px;
+  position: relative;
+}
+.prices-flag {
+  background: var(
+    --brand-color,
+    linear-gradient(
+      90deg,
+      rgba(178, 156, 238, 1) 0%,
+      rgba(233, 213, 249, 1) 100%
+    )
+  );
+  border-radius: 42px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.log-in {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  right: 25.17%;
+  left: 24.5%;
+  width: 50.34%;
+  bottom: 19.81%;
+  top: 6.6%;
+  height: 73.58%;
+}
+.frame-4 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 131px;
+  position: relative;
+  overflow: hidden;
+}
+.dev-profile2 {
+  text-align: left;
+  font-family: "PottaOne-Regular", sans-serif;
+  font-size: 100px;
+  line-height: 150px;
+  letter-spacing: -0.04em;
+  font-weight: 400;
+  position: relative;
+  width: 548px;
+  height: 131px;
+}
+.bio {
+  background: #28292b;
+  padding: 88px 27px 88px 27px;
+  display: flex;
+  flex-direction: row;
+  gap: 68px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.whats-app-image-2024-11-24-at-15-47-50-1 {
+  border-radius: 27px;
+  flex-shrink: 0;
+  width: 330px;
+  height: 339px;
+  position: relative;
+  object-fit: cover;
+}
+.hello-my-name-is-fatur-i-am-a-student-at-stt-nf {
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 70px;
+  line-height: 98px;
+  letter-spacing: -0.04em;
+  font-weight: 400;
+  position: relative;
+  width: 829px;
+  display: flex;
+  align-items: center;
+  justify-content: flex-start;
+}
+.hello-my-name-is-fatur-i-am-a-student-at-stt-nf-span {
+  color: #ffffff;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 70px;
+  line-height: 98px;
+  letter-spacing: -0.04em;
+  font-weight: 600;
+}
+.hello-my-name-is-fatur-i-am-a-student-at-stt-nf-span2 {
+  color: linear-gradient(
+    71.44deg,
+    rgba(178, 156, 238, 1) 0%,
+    rgba(233, 213, 249, 1) 100%
+  );
+  font-family: "PottaOne-Regular", sans-serif;
+  font-size: 70px;
+  line-height: 98px;
+  letter-spacing: -0.04em;
+  font-weight: 400;
+}
+.hello-my-name-is-fatur-i-am-a-student-at-stt-nf-span3 {
+  color: #ffffff;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 70px;
+  line-height: 98px;
+  letter-spacing: -0.04em;
+  font-weight: 600;
+}
+.social-media {
+  background: #28292b;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-end;
+  justify-content: center;
+  flex-wrap: wrap;
+  align-content: flex-end;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.frame-5 {
+  padding: 0px 11px 0px 11px;
+  display: flex;
+  flex-direction: row;
+  gap: 11px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 184px;
+  position: relative;
+}
+.instagram {
+  flex-shrink: 0;
+  width: 46px;
+  height: 46px;
+  position: relative;
+  object-fit: cover;
+}
+.faturalfrzi {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150px;
+  letter-spacing: -0.04em;
+  font-weight: 600;
+  position: relative;
+}
+.frame-6 {
+  display: flex;
+  flex-direction: row;
+  gap: 4px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 184px;
+  position: relative;
+}
+.gmail-logo-png-icon-900-x-675-1 {
+  flex-shrink: 0;
+  width: 43px;
+  height: 32px;
+  position: relative;
+  object-fit: cover;
+}
+.faturrahman-072006-gmail-com {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-SemiBold", sans-serif;
+  font-size: 32px;
+  line-height: 150px;
+  letter-spacing: -0.04em;
+  font-weight: 600;
+  position: relative;
+}
+.frame-7 {
+  display: flex;
+  flex-direction: row;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 184px;
+  position: relative;
+}
+.en-ep {
+  flex-shrink: 0;
+  width: 184px;
+  height: 184px;
+  position: relative;
+  object-fit: cover;
+}
