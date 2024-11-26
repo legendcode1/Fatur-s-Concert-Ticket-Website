@@ -1,0 +1,588 @@
+.price-sect,
+.price-sect * {
+  box-sizing: border-box;
+}
+.price-sect {
+  background: #28292b;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  position: relative;
+  overflow: hidden;
+}
+.dashboard {
+  background: #28292b;
+  padding: 0px 1px 0px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 88px;
+  position: relative;
+  overflow: hidden;
+}
+.logo {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 88px;
+  position: relative;
+}
+.bts-logo-love-yourself-edit-hiroshi-mitsuki-12-2-1 {
+  flex-shrink: 0;
+  width: 133px;
+  height: 55px;
+  position: relative;
+  object-fit: cover;
+}
+.frame-1 {
+  padding: 22px 0px 22px 0px;
+  display: flex;
+  flex-direction: row;
+  gap: 0px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 86px;
+  position: relative;
+  overflow: hidden;
+}
+.about {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 27px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.prices {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 27px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.dev-profile {
+  color: #ffffff;
+  text-align: center;
+  font-family: "Poppins-Medium", sans-serif;
+  font-size: 27px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 500;
+  position: relative;
+  flex: 1;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+.login {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: center;
+  flex: 1;
+  height: 86px;
+  position: relative;
+}
+.component-1 {
+  flex-shrink: 0;
+  width: 149px;
+  height: 53px;
+  position: relative;
+}
+.prices-flag {
+  background: var(
+    --brand-color,
+    linear-gradient(
+      90deg,
+      rgba(178, 156, 238, 1) 0%,
+      rgba(233, 213, 249, 1) 100%
+    )
+  );
+  border-radius: 42px;
+  border-style: solid;
+  border-color: #000000;
+  border-width: 1px;
+  width: 100%;
+  height: 100%;
+  position: absolute;
+  right: 0%;
+  left: 0%;
+  bottom: 0%;
+  top: 0%;
+}
+.log-in {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Poppins-Regular", sans-serif;
+  font-size: 28px;
+  line-height: 153%;
+  letter-spacing: -0.01em;
+  font-weight: 400;
+  position: absolute;
+  right: 25.17%;
+  left: 24.5%;
+  width: 50.34%;
+  bottom: 19.81%;
+  top: 6.6%;
+  height: 73.58%;
+}
+.title-sect {
+  background: #28292b;
+  padding: 29px 400px 29px 400px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.whats-app-image-2024-11-24-at-20-59-10-4-c-6108-a-8-removebg-preview-1 {
+  flex-shrink: 0;
+  width: 479px;
+  height: 132px;
+  position: relative;
+  object-fit: cover;
+}
+.price-sect2 {
+  background: #28292b;
+  padding: 75px 86px 75px 86px;
+  display: flex;
+  flex-direction: row;
+  gap: 12px;
+  align-items: center;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+  overflow: hidden;
+}
+.tribune {
+  background: linear-gradient(
+    34.79deg,
+    rgba(178, 156, 238, 0.5) 0%,
+    rgba(233, 213, 249, 0.5) 100%
+  );
+  border-radius: 27px;
+  padding: 3px 0px 3px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 355px;
+  height: 752px;
+  position: relative;
+}
+.text {
+  padding: 0px 3px 0px 3px;
+  display: flex;
+  flex-direction: column;
+  gap: 18px;
+  align-items: flex-start;
+  justify-content: center;
+  align-self: stretch;
+  flex-shrink: 0;
+  position: relative;
+}
+.tribune2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  position: relative;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+._500-k {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 96px;
+  font-weight: 800;
+  position: relative;
+}
+.feel-the-thrill-of-seeing-a-lively-audience {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.benefit {
+  padding: 16px 0px 16px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 354px;
+  position: relative;
+  overflow: hidden;
+}
+.what-you-will-get-comfortable-assigned-seating-with-a-clear-stage-view-suitable-for-fans-who-prefer-a-relaxed-concert-experience-affordable-pricing-for-budget-conscious-fans-access-to-bts-themed-merchandise-at-the-venue {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.what-you-will-get-comfortable-assigned-seating-with-a-clear-stage-view-suitable-for-fans-who-prefer-a-relaxed-concert-experience-affordable-pricing-for-budget-conscious-fans-access-to-bts-themed-merchandise-at-the-venue-span {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.what-you-will-get-comfortable-assigned-seating-with-a-clear-stage-view-suitable-for-fans-who-prefer-a-relaxed-concert-experience-affordable-pricing-for-budget-conscious-fans-access-to-bts-themed-merchandise-at-the-venue-span2 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-comfortable-assigned-seating-with-a-clear-stage-view-suitable-for-fans-who-prefer-a-relaxed-concert-experience-affordable-pricing-for-budget-conscious-fans-access-to-bts-themed-merchandise-at-the-venue-span3 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-comfortable-assigned-seating-with-a-clear-stage-view-suitable-for-fans-who-prefer-a-relaxed-concert-experience-affordable-pricing-for-budget-conscious-fans-access-to-bts-themed-merchandise-at-the-venue-span4 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-comfortable-assigned-seating-with-a-clear-stage-view-suitable-for-fans-who-prefer-a-relaxed-concert-experience-affordable-pricing-for-budget-conscious-fans-access-to-bts-themed-merchandise-at-the-venue-span5 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-comfortable-assigned-seating-with-a-clear-stage-view-suitable-for-fans-who-prefer-a-relaxed-concert-experience-affordable-pricing-for-budget-conscious-fans-access-to-bts-themed-merchandise-at-the-venue-span6 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-comfortable-assigned-seating-with-a-clear-stage-view-suitable-for-fans-who-prefer-a-relaxed-concert-experience-affordable-pricing-for-budget-conscious-fans-access-to-bts-themed-merchandise-at-the-venue-span7 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-comfortable-assigned-seating-with-a-clear-stage-view-suitable-for-fans-who-prefer-a-relaxed-concert-experience-affordable-pricing-for-budget-conscious-fans-access-to-bts-themed-merchandise-at-the-venue-span8 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.festival {
+  background: #363636;
+  border-radius: 27px;
+  padding: 11px 9px 11px 9px;
+  display: flex;
+  flex-direction: column;
+  gap: 0px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 373px;
+  height: 832px;
+  position: relative;
+}
+.recommended {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.inside {
+  background: linear-gradient(
+    34.79deg,
+    rgba(178, 156, 238, 0.5) 0%,
+    rgba(233, 213, 249, 0.5) 100%
+  );
+  border-radius: 27px;
+  padding: 3px 0px 3px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  align-items: flex-start;
+  justify-content: flex-start;
+  align-self: stretch;
+  flex-shrink: 0;
+  height: 752px;
+  position: relative;
+}
+.festival2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  position: relative;
+  width: 179px;
+  height: 69px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+._750-k {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 96px;
+  font-weight: 800;
+  position: relative;
+}
+.the-audience-can-dance-and-sing-along {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.what-you-will-get-closer-proximity-to-the-stage-in-a-standing-zone-immersive-atmosphere-surrounded-by-fellow-arm-ys-singing-and-dancing-priority-access-to-general-admission-entry-special-festival-wristband-as-a-keepsake {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.what-you-will-get-closer-proximity-to-the-stage-in-a-standing-zone-immersive-atmosphere-surrounded-by-fellow-arm-ys-singing-and-dancing-priority-access-to-general-admission-entry-special-festival-wristband-as-a-keepsake-span {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.what-you-will-get-closer-proximity-to-the-stage-in-a-standing-zone-immersive-atmosphere-surrounded-by-fellow-arm-ys-singing-and-dancing-priority-access-to-general-admission-entry-special-festival-wristband-as-a-keepsake-span2 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-closer-proximity-to-the-stage-in-a-standing-zone-immersive-atmosphere-surrounded-by-fellow-arm-ys-singing-and-dancing-priority-access-to-general-admission-entry-special-festival-wristband-as-a-keepsake-span3 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-closer-proximity-to-the-stage-in-a-standing-zone-immersive-atmosphere-surrounded-by-fellow-arm-ys-singing-and-dancing-priority-access-to-general-admission-entry-special-festival-wristband-as-a-keepsake-span4 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-closer-proximity-to-the-stage-in-a-standing-zone-immersive-atmosphere-surrounded-by-fellow-arm-ys-singing-and-dancing-priority-access-to-general-admission-entry-special-festival-wristband-as-a-keepsake-span5 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-closer-proximity-to-the-stage-in-a-standing-zone-immersive-atmosphere-surrounded-by-fellow-arm-ys-singing-and-dancing-priority-access-to-general-admission-entry-special-festival-wristband-as-a-keepsake-span6 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-closer-proximity-to-the-stage-in-a-standing-zone-immersive-atmosphere-surrounded-by-fellow-arm-ys-singing-and-dancing-priority-access-to-general-admission-entry-special-festival-wristband-as-a-keepsake-span7 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-closer-proximity-to-the-stage-in-a-standing-zone-immersive-atmosphere-surrounded-by-fellow-arm-ys-singing-and-dancing-priority-access-to-general-admission-entry-special-festival-wristband-as-a-keepsake-span8 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-closer-proximity-to-the-stage-in-a-standing-zone-immersive-atmosphere-surrounded-by-fellow-arm-ys-singing-and-dancing-priority-access-to-general-admission-entry-special-festival-wristband-as-a-keepsake-span9 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.vip {
+  background: linear-gradient(
+    34.79deg,
+    rgba(178, 156, 238, 0.5) 0%,
+    rgba(233, 213, 249, 0.5) 100%
+  );
+  border-radius: 27px;
+  padding: 3px 0px 3px 0px;
+  display: flex;
+  flex-direction: column;
+  gap: 3px;
+  align-items: center;
+  justify-content: flex-start;
+  flex-shrink: 0;
+  width: 355px;
+  height: 752px;
+  position: relative;
+}
+.vip2 {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 48px;
+  font-weight: 600;
+  position: relative;
+  width: 79px;
+  height: 69px;
+  display: flex;
+  align-items: flex-end;
+  justify-content: flex-start;
+}
+._1-jt {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-ExtraBold", sans-serif;
+  font-size: 96px;
+  font-weight: 800;
+  position: relative;
+}
+.the-audience-can-really-get-close-to-the-artist-or-idol-who-is-performing-and-get-more-clear-sound {
+  color: #ffffff;
+  text-align: left;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+  position: relative;
+  align-self: stretch;
+}
+.what-you-will-get-exclusive-front-row-access-with-a-guaranteed-best-view-complimentary-bts-gift-set-including-signed-merchandise-early-entry-to-the-venue-with-a-fast-pass-line-access-to-a-vip-lounge-with-snacks-and-beverages-opportunity-for-a-virtual-meet-and-greet-with-bts {
+  color: #ffffff;
+  text-align: left;
+  font-family: "-", sans-serif;
+  font-size: 20px;
+  font-weight: 400;
+  position: relative;
+  align-self: stretch;
+}
+.what-you-will-get-exclusive-front-row-access-with-a-guaranteed-best-view-complimentary-bts-gift-set-including-signed-merchandise-early-entry-to-the-venue-with-a-fast-pass-line-access-to-a-vip-lounge-with-snacks-and-beverages-opportunity-for-a-virtual-meet-and-greet-with-bts-span {
+  color: #ffffff;
+  font-family: "Inter-Bold", sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}
+.what-you-will-get-exclusive-front-row-access-with-a-guaranteed-best-view-complimentary-bts-gift-set-including-signed-merchandise-early-entry-to-the-venue-with-a-fast-pass-line-access-to-a-vip-lounge-with-snacks-and-beverages-opportunity-for-a-virtual-meet-and-greet-with-bts-span2 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-exclusive-front-row-access-with-a-guaranteed-best-view-complimentary-bts-gift-set-including-signed-merchandise-early-entry-to-the-venue-with-a-fast-pass-line-access-to-a-vip-lounge-with-snacks-and-beverages-opportunity-for-a-virtual-meet-and-greet-with-bts-span3 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-exclusive-front-row-access-with-a-guaranteed-best-view-complimentary-bts-gift-set-including-signed-merchandise-early-entry-to-the-venue-with-a-fast-pass-line-access-to-a-vip-lounge-with-snacks-and-beverages-opportunity-for-a-virtual-meet-and-greet-with-bts-span4 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-exclusive-front-row-access-with-a-guaranteed-best-view-complimentary-bts-gift-set-including-signed-merchandise-early-entry-to-the-venue-with-a-fast-pass-line-access-to-a-vip-lounge-with-snacks-and-beverages-opportunity-for-a-virtual-meet-and-greet-with-bts-span5 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-exclusive-front-row-access-with-a-guaranteed-best-view-complimentary-bts-gift-set-including-signed-merchandise-early-entry-to-the-venue-with-a-fast-pass-line-access-to-a-vip-lounge-with-snacks-and-beverages-opportunity-for-a-virtual-meet-and-greet-with-bts-span6 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-exclusive-front-row-access-with-a-guaranteed-best-view-complimentary-bts-gift-set-including-signed-merchandise-early-entry-to-the-venue-with-a-fast-pass-line-access-to-a-vip-lounge-with-snacks-and-beverages-opportunity-for-a-virtual-meet-and-greet-with-bts-span7 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-exclusive-front-row-access-with-a-guaranteed-best-view-complimentary-bts-gift-set-including-signed-merchandise-early-entry-to-the-venue-with-a-fast-pass-line-access-to-a-vip-lounge-with-snacks-and-beverages-opportunity-for-a-virtual-meet-and-greet-with-bts-span8 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-exclusive-front-row-access-with-a-guaranteed-best-view-complimentary-bts-gift-set-including-signed-merchandise-early-entry-to-the-venue-with-a-fast-pass-line-access-to-a-vip-lounge-with-snacks-and-beverages-opportunity-for-a-virtual-meet-and-greet-with-bts-span9 {
+  color: #ffffff;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
+.what-you-will-get-exclusive-front-row-access-with-a-guaranteed-best-view-complimentary-bts-gift-set-including-signed-merchandise-early-entry-to-the-venue-with-a-fast-pass-line-access-to-a-vip-lounge-with-snacks-and-beverages-opportunity-for-a-virtual-meet-and-greet-with-bts-span10 {
+  color: #ffffff;
+  list-style-type: disc;
+  padding-left: 1em;
+  font-family: "Inter-SemiBold", sans-serif;
+  font-size: 20px;
+  font-weight: 600;
+}
